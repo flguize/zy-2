@@ -20912,5 +20912,9 @@ rules:
   - DOMAIN-SUFFIX,ocnttv.com,🚀 节点选择
   - DOMAIN-SUFFIX,vikacg.com,🚀 节点选择
   - DOMAIN-SUFFIX,picjs.xyz,🚀 节点选择
+  - DOMAIN-SUFFIX,a.xyz,🥴 尼玛
+  - DOMAIN-SUFFIX,ab.xyz,😉 自建节点
+  - DOMAIN-SUFFIX,abc.xyz,😎 自选国内节点
+  - DOMAIN-SUFFIX,d.xyz,⛑️ 自用国内节点  
   - MATCH,🐟 漏网之鱼
 socks-port: 7891
